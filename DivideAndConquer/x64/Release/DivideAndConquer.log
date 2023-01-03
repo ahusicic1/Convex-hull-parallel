@@ -1,0 +1,19 @@
+﻿cl : command line  warning D9025: overriding '/openmp' with '/openmp:llvm'
+  DivideAndConquer.cpp
+C:\Users\Hp\Desktop\ParalelniJarvisAlgoritam\DivideAndConquer\MonotoneChainCopy.cpp(55,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Hp\Desktop\ParalelniJarvisAlgoritam\DivideAndConquer\DivideAndConquer.cpp(64,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Hp\Desktop\ParalelniJarvisAlgoritam\DivideAndConquer\DivideAndConquer.cpp(92,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Hp\Desktop\ParalelniJarvisAlgoritam\DivideAndConquer\DivideAndConquer.cpp(92,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Hp\Desktop\ParalelniJarvisAlgoritam\DivideAndConquer\DivideAndConquer.cpp(164,20): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Hp\Desktop\ParalelniJarvisAlgoritam\DivideAndConquer\DivideAndConquer.cpp(164,33): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Hp\Desktop\ParalelniJarvisAlgoritam\DivideAndConquer\DivideAndConquer.cpp(165,20): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Hp\Desktop\ParalelniJarvisAlgoritam\DivideAndConquer\DivideAndConquer.cpp(165,33): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Hp\Desktop\ParalelniJarvisAlgoritam\DivideAndConquer\DivideAndConquer.cpp(189,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Hp\Desktop\ParalelniJarvisAlgoritam\DivideAndConquer\DivideAndConquer.cpp(220,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Hp\Desktop\ParalelniJarvisAlgoritam\DivideAndConquer\DivideAndConquer.cpp(319,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  38 of 406 functions ( 9.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  DivideAndConquer.vcxproj -> C:\Users\Hp\Desktop\ParalelniJarvisAlgoritam\ParalelniJarvisAlgoritam\x64\Release\DivideAndConquer.exe

@@ -1,0 +1,2 @@
+﻿  ParalelniGrahamScan.cpp
+C:\Users\Hp\Desktop\ParalelniJarvisAlgoritam\ParalelniGrahamScan\ParalelniGrahamScan.cpp(129,4): error C3020: 'i': index variable of OpenMP 'for' loop cannot be modified in loop body
